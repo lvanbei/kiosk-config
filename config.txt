@@ -7,5 +7,4 @@ browser=chrome
 additional_components=uefi.zip
 kiosk_config=https://raw.githubusercontent.com/lvanbei/kiosk-config/main/config.txt
 homepage=https://consumerconnect.be/nl/
-debug=yes
 disable_navigation_bar=yes
