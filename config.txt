@@ -5,3 +5,4 @@ wpa_password=LEODILE2015
 ssid_name=Tintin
 browser=chrome
 additional_components=uefi.zip
+kiosk_config=https://raw.githubusercontent.com/lvanbei/kiosk-config/main/config.txt
