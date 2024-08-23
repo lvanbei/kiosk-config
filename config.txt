@@ -1,6 +1,10 @@
-kiosk_server=server.porteus-kiosk.org:443
-client_id=4220
-root_password=some_password
-vnc_password=vnc_pass
-vnc_interactive=yes
-additional_components=uefi.zip 08-ssh.xzm 09-x11vnc.xzm
+connection=wifi
+dhcp=yes
+wifi_encryption=wpa
+wpa_password=LEODILE2015
+ssid_name=Tintin
+browser=chrome
+additional_components=uefi.zip
+kiosk_config=https://raw.githubusercontent.com/lvanbei/kiosk-config/main/config.txt
+homepage=https://consumerconnect.be/nl/
+disable_navigation_bar=yes
