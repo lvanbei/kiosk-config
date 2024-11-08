@@ -1,0 +1,17 @@
+dhcp=yes
+browser=firefox
+additional_components=uefi.zip
+kiosk_config=https://raw.githubusercontent.com/lvanbei/kiosk-config/main/config.txt
+homepage=https://consumerconnect.be/nl
+disable_navigation_bar=yes
+virtual_keyboard=yes
+screen_rotate=right
+onscreen_buttons=back forward refresh home
+onscreen_buttons_position=top
+screensaver_idle=1
+screensaver_video=https://raw.githubusercontent.com/lvanbei/kiosk-config/main/idle.mp4
+whitelist=economiecc.service-now.com dev.consumerconnect.be cc.consumerconnect.be sso-acc.economie.fgov.be idp.iamfas.int.belgium.be certif.iamfas.int.belgium.be cc.consumerconnect.be merchant.itsme.be idp.prd.itsme.services pnl1-word-view.officeapps.live.com view.officeapps.live.com cc.consumerconnect.be economie.fgov.be consumentenombudsdienst.be ombudsmantelecom.be ombudsmantelecom.be ombudsfin.be ombudsmanvoordehandel.be ombudsman-insurance.be bouwverzoening.be ombudsmanenergie.be clv-gr.be ombudsmanposte.be dossier.ligeca.be cacet.be ombudsgdw.be macarte.be mijnkaart.be politie.be police.be fagg.be fsma.be dncm.be mi-is.be vreg.be mobilit.belgium.be gerechtsdeurwaarders.be huissiersdejustice.be brugel.brussels cwape.be creg.be energie.wallonie.be environnement.brussels vlaanderen.be observatoire-credit.be mediationdedettes.be eerstehulpbijschulden.be datassur.be ordredesarchitectes.be architect.be ipi.be biv.be front-door-endpoint-cc-prd-erd5gghph8bae5fp.a01.azurefd.net idp.iamfas.belgium.be eccbelgie.be cecbelgique.be ombudsmanducommerce.be mediationconsommateur.be icpen.org mediateurenergie.be ombudsmantelecom.be mediateurtelecom.be belgium.be consumerconnect.be constructionconciliation.be bouwverzoening.be bouwverzoening.hosted-temp.com regsol.be tribunaux-rechtbanken.be west.eu.kio.cloud kiocloudcore-eu-west-1.service.signalr.net kiocloudcorefileseuwest1.file.core.windows.net windowsupdate.microsoft.com download.windowsupdate.com download.microsoft.com wustat.windows.com ntservicepack.microsoft.com go.microsoft.com dl.delivery.mp.microsoft.com dl.delivery.mp.microsoft.com ombudsnotaris.be ombudsnotaire.be ombudscom.be tribunaux-rechtbanken.be nbb.be regsol.be ejustice.just.fgov.be eur-lex.europa.eu datenschutzbehorde.be gegevensbeschermingsautoriteit.be autoriteprotectiondonnees.be cdn.contentful.com testdelmato.matomo.cloud stonly.com google.com
+timezone=Europe/Brussels
+primary_keyboard_layout=be
+browser_user_agent=FOD-ECO-KIOSK
+browser_preferences=https://raw.githubusercontent.com/lvanbei/kiosk-config/main/firefox-settings.txt

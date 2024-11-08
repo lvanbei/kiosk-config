@@ -1,0 +1,7 @@
+// Allow webcam on all websites:
+user_pref("media.navigator.permission.disabled", true);
+
+// Expire cookies when browser is restarted (makes sense ony when persistence is enabled):
+user_pref("network.cookie.lifetimePolicy", 2);
+
+user_pref("intl.accept_languages", "fr");
